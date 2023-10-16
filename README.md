@@ -1,6 +1,6 @@
 # Homefit
 
-Porjeto App de Fisioterapia Homefit.
+App de Fisioterapia Homefit.
 
 ## Informações úteis sobre o projeto
 
